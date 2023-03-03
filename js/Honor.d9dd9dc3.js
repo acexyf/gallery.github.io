@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkcreation_gallery"]=self["webpackChunkcreation_gallery"]||[]).push([[560],{3763:function(e,n,a){a.r(n),a.d(n,{default:function(){return u}});var r=a(649);const t={name:"Honor"};var c=Object.assign(t,{setup(e){return(e,n)=>((0,r.wg)(),(0,r.iD)("div",null,"honor"))}}),o=a(8638);const s=(0,o.Z)(c,[["__scopeId","data-v-6f5eaf43"]]);var u=s}}]);
