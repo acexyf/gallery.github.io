@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkcreation_gallery"]=self["webpackChunkcreation_gallery"]||[]).push([[83],{54:function(a,e,n){n.r(e),n.d(e,{default:function(){return l}});var t=n(3396);const r={name:"NationalMap"};var c=Object.assign(r,{setup(a){return(a,e)=>((0,t.wg)(),(0,t.iD)("div",null,"敬请期待"))}}),s=n(89);const u=(0,s.Z)(c,[["__scopeId","data-v-2852bfde"]]);var l=u}}]);
