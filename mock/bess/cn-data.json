@@ -1,0 +1,1 @@
+{"success": true, "flag": "1", "message": "获取电站信息成功！", "data": {"ratedCapacity": "41.2MW/65.0MWh", "CN_SOC": {"value": "61.59", "unit": "%"}, "CN_KF": {"value": "62.65", "unit": "MWh"}, "CN_DL": {"value": "19.26", "unit": "MWh"}}}
