@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkcreation_gallery"]=self["webpackChunkcreation_gallery"]||[]).push([[12],{20925:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var r=n(4310);const a={name:"Test"};var s=Object.assign(a,{setup(e){return(e,t)=>((0,r.wg)(),(0,r.iD)("div",null,"test"))}});const u=s;var c=u}}]);
